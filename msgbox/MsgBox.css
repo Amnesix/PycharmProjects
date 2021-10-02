@@ -1,0 +1,45 @@
+window {
+    background-color: grey;
+    border: 10px solid grey;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+}
+
+box {
+    margin: 10px;
+}
+
+image {
+    margin-right: 20px;
+    background-color: transparent;
+}
+
+progress, trough {
+    min-height: 15px;
+    margin: 10px;
+}
+
+label {
+/* Uniquement pour le debug */
+    /* border: 1px solid red; */
+}
+
+label#title {
+    background-color: lightgrey;
+    min-height: 55px;
+    color: #444;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+label#message {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+button {
+    font-size: 20px;
+    min-width: 85px;
+    min-height: 35px;
+}
