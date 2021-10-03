@@ -1,5 +1,7 @@
 # MsgBox
 
+python3 / gtk3
+
 This application allows you to display a dialog box with a random number of buttons
 by providing in return the number of the selected button.
 It is possible to add a timeout for an automatic closing of the window.
